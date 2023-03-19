@@ -1,0 +1,53 @@
+body {
+    background-color: #3A98B9;
+    color: #FFF1DC;
+    margin: 7px;
+}
+hr {
+    width: 5%;
+    border-style: none;
+    border-top: dotted;
+    border-color:  #E8D5C4;
+    border-width: 5px;
+   
+}
+h1{ color: #0A2647;}
+h2{ color:#0A2647}
+
+  /*CLASS*/
+
+
+.top{
+
+    background-color: #FFF1DC;
+    padding: 7px;
+    padding-left: 40%;
+    padding-right: 40%;
+}
+
+.middle{
+
+}
+
+
+
+.bottom{
+    width: 500px;
+    height: 300px;
+
+}
+
+.last{
+    margin-left: 550px;
+    margin-top: -400px;
+
+
+}
+
+
+.student{
+    color: #0A2647;
+    padding-left: 30%;
+    padding-right: 40%;
+}
+
